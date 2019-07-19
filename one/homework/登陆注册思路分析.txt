@@ -1,0 +1,12 @@
+登录
+
+ 前端：
+     html  用户名 密码
+     form  get
+
+后端：
+     服务器  http
+     地址模块   url  默认字符串==》对象 url.parse(url,true).query
+
+     模拟数据库  用户名 密码
+  

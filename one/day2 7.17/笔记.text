@@ -1,0 +1,6 @@
+*
+*npm   node的管理工具
+*npm init 项目初始化  =npm init -y 会生成==》package.json
+*npm install =i 下载
+*--save=-S 生产环境 (dependecies)   --save-dev=-D  开发环境(devdependecies)  
+  
